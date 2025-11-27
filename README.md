@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Evgeniy Sarzhan
 
-<!--
-**sarzhan-ds/sarzhan-ds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔬 **Data Scientist | Machine Learning Engineer**  
+📱 Former Mobile Developer (5+ years) → [github.com/sarzhan](https://github.com/sarzhan)
 
-Here are some ideas to get you started:
+## 🎯 Focus Areas
+- Deep Learning
+- Natural Language Processing (NLP)
+- Computer Vision
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+**Languages:** Python, SQL  
+**ML/DL:** PyTorch, TensorFlow, Scikit-learn, Keras  
+**Data:** Pandas, NumPy, Matplotlib, Seaborn  
+**Tools:** Jupyter, Git, Docker
+
+## 📫 Contact
+- Email: evgeniy.sarzhan+ds@gmail.com
+- LinkedIn: [your-linkedin-profile]
+- Main GitHub: [@sarzhan](https://github.com/sarzhan)
+
+---
+💡 *Transitioning from 5+ years of mobile development to Machine Learning and Data Science*
+
